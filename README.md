@@ -1,22 +1,22 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio
+# Trial Project
 
-My portfolio webpage
+This is a project from trials.
 
 This webpage has two sections:
-1. Header
-2. Title section
+1. Heading
+2. Timeline Section
 
 ## Built With
 
 - HTML
 - CSS
 ## Live Demo
-[Live Demo Link](https://htmlpreview.github.io/?https://github.com/jasonfelice/portfolio/blob/main/index.html)
+[Live Demo Link](https://htmlpreview.github.io/?https://github.com/jasonfelice/first-review/blob/code-review/index.html)
 
 To get a local copy up and running follow these simple example steps.
-- Copy this [link](https://github.com/jasonfelice/portfolio)
+- Copy this [link](https://github.com/jasonfelice/first-review)
 - Open the terminal
 - Run "git clone" and paste the link
 - Open this folder in your code editor
@@ -32,6 +32,9 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@jasonfelice](https://github.com/jasonfelice)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jason-felice-11a5a622b/)
 
+👤 **Author2**
+
+- GitHub: [@briamportela172](https://github.com/briamportela172)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -44,6 +47,3 @@ Feel free to check the [issues page](../../issues/).
 - Inspiration
 - etc
 
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
